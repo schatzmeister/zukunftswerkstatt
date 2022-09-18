@@ -1,6 +1,6 @@
 # Konflikte für eine konstruktive Zusammenarbeit nutzen
 
-Von: Kerstin Döring, kerstindoering.com
+Zukunftswerkstatt Webinar
 
 ## Eskalationstufen
 
