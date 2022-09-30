@@ -13,3 +13,6 @@ Einige weitere Ideen, die nicht direkt aus der Google Zukunftswerkstatt kommen, 
 - *Neue Narrative*
 - *Retromat-Bundle:* Drei Bücher für das Gestalten von Retrospektiven, *Retromat, Plans for Retrospectives* und *Asking for a Better Future*
 - *Loom*: Video-Messaging
+- *Schnelles Denken, langsames Denken:* Menschen haben zwei Systeme, um Informationen zu verarbeiten
+- *Agile Project Management with Kanban* von Eric Brechner
+- Miro Retrospective Templates
