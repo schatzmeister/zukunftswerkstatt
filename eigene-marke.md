@@ -1,6 +1,6 @@
 # Aufbau einer eigenen Marke
 
-Ein Google Zukunftswerkstadt Webinar
+Aufgezeichnetes Webinar von Google
 
 ## Markenpositionierung
 

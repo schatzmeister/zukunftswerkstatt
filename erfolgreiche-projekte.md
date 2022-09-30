@@ -1,6 +1,6 @@
 # So gestalten Sie Projekte noch erfolgreicher
 
-Von: Zukunftswerkstatt Berlin
+Zukunftswerkstatt Berlin
 
 ## Zahlen
 

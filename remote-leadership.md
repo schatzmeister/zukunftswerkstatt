@@ -1,6 +1,6 @@
 # Remote Leadership: Führung eines Teams aus dem Homeoffice
 
-Aufgezeichnetes Google-Webinar
+Aufgezeichnetes Webinar von Google
 
 ## Was macht eine gute Führungskraft aus?
 

@@ -1,5 +1,7 @@
 # Produktiver arbeiten
 
+Aufgezeichnetes Webinar von Google
+
 ## Häufige Zeitdiebe finden
 
 Es gibt viele mögliche Gründe für ineffektives Arbeiten: Eine laute Umgebung, unnötige Arbeiten, warten auf Meetings und Ähnliches. Wir müssen uns bewusst werden, wofür wir wie viel Zeit verbrauchen. Dazu halten wir fest, für welche Aufgaben wir wie lange brauchen, außerdem jede Unterbrechung, jede Pause und jedes Mal, dass wir zur Toilette gehen. So ein Protokoll sollten wir mindestens eine Woche lang führen. Dann können wir uns überlegen, wie wir Unterbrechungen minimieren können.

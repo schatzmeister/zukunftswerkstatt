@@ -1,6 +1,6 @@
 # Innovationen
 
-Von: IHK Akademie München und Oberbayern
+Zukunftswerkstatt Online
 
 ## Innovation und Kreativität
 

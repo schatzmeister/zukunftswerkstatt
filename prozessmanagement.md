@@ -1,6 +1,6 @@
 # Prozessmanagement: Grundlagen
 
-Von: myCompetence, TÜV Rheinland
+Zukunftswerkstatt Online
 
 ## Begriffe
 

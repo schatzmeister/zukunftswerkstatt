@@ -1,6 +1,6 @@
 # Digital Wellbeing
 
-Aufgezeichnetes Webinar von Google und Kurs in der Zukunftswerkstatt
+Aufgezeichnetes Webinar von Google und Zukunftswerkstatt Online
 
 ## Was ist Digital Wellbeing?
 

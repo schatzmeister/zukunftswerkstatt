@@ -1,6 +1,6 @@
 # Erfolgreich Kommunizieren im Arbeitsalltag
 
-Von: Zukunftswerkstatt Berlin
+Zukunftswerkstatt Berlin
 
 ## Gesprächsvorbereitung
 

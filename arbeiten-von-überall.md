@@ -1,6 +1,6 @@
 # Arbeiten von Überall
 
-Aufgezeichnetes Google Webinar
+Aufgezeichnetes Webinar von Google
 
 ## Arbeitsplatzgestaltung
 

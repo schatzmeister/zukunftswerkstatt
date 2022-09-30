@@ -12,3 +12,4 @@ Einige weitere Ideen, die nicht direkt aus der Google Zukunftswerkstatt kommen, 
 - *High-Impact Tools for Teams*
 - *Neue Narrative*
 - *Retromat-Bundle:* Drei Bücher für das Gestalten von Retrospektiven, *Retromat, Plans for Retrospectives* und *Asking for a Better Future*
+- *Loom*: Video-Messaging

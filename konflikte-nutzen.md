@@ -1,6 +1,6 @@
 # Konflikte für eine konstruktive Zusammenarbeit nutzen
 
-Zukunftswerkstatt Webinar
+Live-Webinar von Google
 
 ## Eskalationstufen
 

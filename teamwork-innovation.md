@@ -1,6 +1,6 @@
 # Teamwork Innovation
 
-Google Webinar zum Buch *High-Impact Tools for Teams*
+Aufgezeichnetes Webinar von Google zum Buch *High-impact Tools for Teams*
 
 ## Kommunikationskanäle
 
