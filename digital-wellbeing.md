@@ -39,7 +39,7 @@ Man gewöhnt sich an, den einfachsten Weg zu gehen, deswegen sollte der einfachs
 
 Achte auf Gewohnheitszyklen. Gibt es gewisse Situationen, in denen immer wieder die gleichen Handlungen vollübt werden? Je öfter man das macht, desto mehr werden sie zur Gewohnheit.
 
-Für was nutze ich eigentlich meine Geräte? Wie sind meine Bildschirmzeiten? Welche Apps nutze ich? Was will ich ändern? Hieraus können wir uns Ziele ableiten – diese sollten unbedingt realistisch sein!
+Für was nutze ich eigentlich meine Geräte? Wie sind meine Bildschirmzeiten? Welche Apps nutze ich und helfen sie mir? Wie schätzen andere meine Nutzungsgewohnheiten ein? Was will ich ändern? Hieraus können wir uns Ziele ableiten – diese sollten unbedingt realistisch sein!
 
 Wir können auch einmal einen Großputz unseres Gerätes vornehmen: Unnötige Apps deinstallieren, den Startbildschirm neu anordnen und Apps in Ordner sortieren.
 
